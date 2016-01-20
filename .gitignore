@@ -7,6 +7,4 @@ dist
 
 npm-debug.log
 
-.env.development
-.env.test
 tmp/

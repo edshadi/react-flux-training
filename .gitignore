@@ -1,0 +1,12 @@
+.DS_Store
+
+node_modules
+
+# ignore generated files; users should be generating their personal copy from source
+dist
+
+npm-debug.log
+
+.env.development
+.env.test
+tmp/
